@@ -5,7 +5,8 @@ This is a simple web application that fetches a random image from the Picsum API
 ## Features
 
 - Fetches a random image from the Picsum API when the “Fetch Random Image” button is clicked.
-##Usage
+  
+## Usage
 
 1. Clone or download this repository to your local machine.
 2. Open the `index.html` file in your web browser.
