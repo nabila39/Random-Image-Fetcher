@@ -19,4 +19,4 @@ This is a simple web application that fetches a random image from the Picsum API
 - JavaScript
 
 # Live Demo
-You can vist the webpage from [Random Image Fetcher]()
+You can vist the webpage from [Random Image Fetcher](https://nabila39.github.io/Random-Image-Fetcher/)
